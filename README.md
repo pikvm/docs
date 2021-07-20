@@ -160,7 +160,7 @@ The dongle is completely supported and Pi-KVM works great with it. But it has so
 * For keyboard & mouse emulator (HID):
   - Arduino Pro Micro (based on an ATMega32u4).
   - [Logic level shifter](https://www.sparkfun.com/products/12009).
-  - 1x NPN transistor (almost any NPN transistor: 2n2222 or similar).
+  - 1x PNP transistor (almost any PNP transistor: 2N2907 or similar).
   - 1x 390 Ohm resistor.
   - A breadboard and wires.
 * 2x USB A-to-micro cables (male-male, for power and HID).
